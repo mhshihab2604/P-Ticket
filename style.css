@@ -4,3 +4,9 @@
     width: 1173px !important;
     margin: 0 auto;
 }
+.row{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
